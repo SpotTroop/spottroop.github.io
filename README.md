@@ -4,6 +4,7 @@
 ```bash
 git clone git@github.com:SpotTroop/spottroop2.github.io.git
 cd spottroop2.github.io
+npm install
 npm run deploy-init
 ```
 
