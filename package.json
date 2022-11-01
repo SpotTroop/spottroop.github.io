@@ -42,7 +42,7 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-coming-soon.git"
     },
     "dependencies": {
-        "bootstrap": "5.1.3"
+        "bootstrap": "5.2.2"
     },
     "devDependencies": {
         "autoprefixer": "10.4.4",
